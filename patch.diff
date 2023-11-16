@@ -1,0 +1,21 @@
+From dc1db33a6d079eceb6fe34afed54148dfbfa5943 Mon Sep 17 00:00:00 2001
+From: Oleg Shelest <lateexairu@gmail.com>
+Date: Fri, 17 Nov 2023 00:11:52 +0200
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..2094087
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# nextdash
+\ No newline at end of file
+-- 
+2.28.0.windows.1
+
